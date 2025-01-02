@@ -39,7 +39,7 @@ For example, if **Ananya**, a LinkedIn influencer, wants help creating future po
 ## Usage
 1. Feed your past LinkedIn posts into the tool to let it analyze your writing style and topics.
 2. Select the **Subject**, **Preferred Language**, and **Post Length** for your new post.
-3. Click the **Generate** button to create a new post based on the selected parameters and your past posts.
+3. Click the **Compose Post** button to create a new post based on the selected parameters and your past posts.
 
 ### Supported Languages:
 - **English**
